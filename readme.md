@@ -1,3 +1,3 @@
 # Yann EYSSERIC
 
-Début du site de Peinture..
+Début du site de Peinture.
